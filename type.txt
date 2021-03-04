@@ -7,3 +7,6 @@ typo6
 typo7
 typo8
 typo9
+typo10
+typo11
+type12-13

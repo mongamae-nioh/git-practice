@@ -4,10 +4,7 @@ print("squash3")
 
 print('develop')
 
-a = 'ch01'
-b = 'ch02'
-c = 'ch03'
-d = 'ch04'
-e = 'ch8533'
-f = 'ch8533-2'
-g = 'ch8533-3'
+a = {
+    'ch1111': 'ok',
+    'ch1112': 'ok'
+}

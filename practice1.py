@@ -6,5 +6,5 @@ print('develop')
 
 a = {
     'ch1111': 'ok',
-    'ch1112': 'ng'
+    'ch1112': 'ok'
 }

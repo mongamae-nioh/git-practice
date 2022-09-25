@@ -1,1 +1,5 @@
-print("delete develop branch -> create develop -> sync from master to develop")
+print("squash1")
+print("squash2")
+print("squash3")
+
+print("20220415 merge test")
